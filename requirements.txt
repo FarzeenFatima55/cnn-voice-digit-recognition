@@ -1,0 +1,8 @@
+tensorflow>=2.12
+numpy>=1.23
+librosa>=0.10
+scikit-learn>=1.2
+matplotlib>=3.7
+seaborn>=0.12
+joblib>=1.2
+tqdm>=4.65
