@@ -102,6 +102,4 @@ Python, TensorFlow/Keras, Librosa, NumPy, scikit-learn, Matplotlib, Seaborn
 - Pete Warden, *Speech Commands: A Dataset for Limited-Vocabulary Speech Recognition* (2018)
 - [Free Spoken Digit Dataset](https://github.com/Jakobovski/free-spoken-digit-dataset) by Zohar Jackson et al.
 
-## License
 
-Add a license of your choice (for example MIT) before publishing.
